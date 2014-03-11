@@ -94,3 +94,6 @@
 [submodule "bundle/tilb_vim"]
 	path = bundle/tilb_vim
 	url = git@github.com:tomtom/tlib_vim.git
+[submodule "bundle/vim-addon-mw-utils"]
+	path = bundle/vim-addon-mw-utils
+	url = git@github.com:MarcWeber/vim-addon-mw-utils.git
